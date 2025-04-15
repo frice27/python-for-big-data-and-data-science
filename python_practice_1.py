@@ -1,0 +1,1 @@
+print("Vlad Semchuk, 4 group")
